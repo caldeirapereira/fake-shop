@@ -1,5 +1,5 @@
 # Fake Shop
-
+a8561428a5be246809dc5ba4af3f003e-2033517780.us-east-1.elb.amazonaws.com
 
 ## Variável de Ambiente
 DB_HOST	=> Host do banco de dados PostgreSQL.
